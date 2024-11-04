@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaidhassan2.
 - 👀 I’m interested in coding (C++).
-- 🌱 I’m currently learning C++ and Pything.
+- 🌱 I’m currently learning C++ and Pythin.
 - 💞️ I’m looking to collaborate Small projects and Asiignment for practice.
 - 📫 you can contact me here xanonymous985@gmail.com.
 - 😄 Pronouns: Also keenly interested in Cyber security.
